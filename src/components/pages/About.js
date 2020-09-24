@@ -18,7 +18,7 @@ function About() {
 				</a>
 				. <br />
 				The link to the repo is{" "}
-				<a href="https://www.github.com/purav-parekh" target="__blank">
+				<a href="https://github.com/purav-parekh/React-ToDo-App" target="__blank">
 					here.
 				</a>{" "}
 			</p>
